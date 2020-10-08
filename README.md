@@ -13,5 +13,7 @@ What To Do:
   - ...
   - ...
 
+![robotcar](robotcar.gif)
+
 ## Credit
 [2D Ray Casting](https://thecodingtrain.com/CodingChallenges/145-2d-ray-casting.html) - Daniel Shiffman
